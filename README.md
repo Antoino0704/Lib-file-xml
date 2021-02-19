@@ -13,3 +13,5 @@ at the top click on "Libraries"
 click on "Classpath" 
 
 to the right do click on "Add External JARs ..." and select the library in .jar
+
+after create class, write: import xmllib.ReadXml;
